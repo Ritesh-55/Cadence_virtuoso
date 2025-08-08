@@ -5,6 +5,7 @@ A curated collection of basic digital logic designs—spanning logic gates, comb
 This repository showcases the schematic designs, symbol creation, layout views (for selected circuits), and transient simulations for core digital circuits developed in Cadence Virtuoso. All circuits are verified using transient analysis to confirm expected logical behavior.
 
 * Circuits Implemented:
+* 
 Logic Gates
 •	AND (also includes layout + mini-project)
 •	OR
@@ -13,6 +14,7 @@ Logic Gates
 •	XOR
 •	NOR
 •	XNOR
+
 Combinational Circuits
 •	Half Adder
 •	Full Adder
@@ -22,6 +24,7 @@ Combinational Circuits
 •	Decoder
 •	Half Subtractor
 •	Full Subtractor
+
 Sequential Circuits
 •	SR Flip-Flop
 •	JK Flip-Flop
@@ -45,6 +48,7 @@ As part of the learning process, a complete mini project was developed around th
 •	Layout design
 •	Design Rule Check (DRC) & Layout vs Schematic (LVS) validation
 This project served as an introduction to the full front-to-back flow in digital IC design using Cadence tools.
+
 * Author
 Ritesh Upadhyay
 Passionate about VLSI design and embedded systems. Exploring the intersection of hardware and software to build efficient real-world       solutions.
