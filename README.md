@@ -50,7 +50,7 @@ Sequential Circuits
 
 •	D Flip-Flop
 
-* Tools & Technologies:
+Tools & Technologies:
   
 •	EDA Tool: Cadence Virtuoso
 
@@ -58,7 +58,7 @@ Sequential Circuits
 
 •	OS: Linux (Red Hat)
 
-* Simulation Approach
+Simulation Approach
   
 •	All designs were tested using transient analysis to validate their dynamic behavior.
 
@@ -66,9 +66,9 @@ Sequential Circuits
 
 •	For selected circuits (like the AND gate), full layout design and verification were completed as a part of the mini-project.
 
-* Mini Project Highlight – AND Gate
+ Mini Project Highlight – AND Gate
   
-As part of the learning process, a complete mini project was developed around the AND gate, which includes:
+ As part of the learning process, a complete mini project was developed around the AND gate, which includes:
 
 •	Schematic design
 
@@ -82,7 +82,7 @@ As part of the learning process, a complete mini project was developed around th
 
 This project served as an introduction to the full front-to-back flow in digital IC design using Cadence tools.
 
-* Author
+Author
   
 Ritesh Upadhyay
 
